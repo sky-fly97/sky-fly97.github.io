@@ -20,7 +20,7 @@ Bo Zhang received the Ph.D. degree in electronic engineering from Fudan Universi
 
 ***We are hiring***:  Our team aims to broaden the boundaries of autonomous driving perception model, trying to explore effective solutions for multi-domain generalization and searching for highly self-motivated interns / full-time employees. If you are interested in solving the industrial problem in an academic way, do not hesitate to contact me.
 
-
+&nbsp
 # News
 =========================================
 - Mar 8, 2023, **Three papers** are accepted by CVPR-2023, Uni3D, Bi3D, GDP.
@@ -28,13 +28,15 @@ Bo Zhang received the Ph.D. degree in electronic engineering from Fudan Universi
 - Jun 15, 2022, Bo Zhang received the Ph.D. degree in electronic engineering from Fudan University.
 - Mar 22, 2022, Bo Zhang joined the ADG-Lab and engaged in the research of multi-domain fusion and transfer.
 
+
+&nbsp
 # Selected publications
 =========================================
-- '*' refers to the corresponding author
+- ^ refers to the corresponding author
 
-Uni3D: A Unified Baseline for Multi-dataset 3D Object Detection. **Bo Zhang**, Jiakang Yuan, Botian Shi, Tao Chen, Yikang LI, Yu Qiao. Published in CVPR-2023. (CCF A)
+Uni3D: A Unified Baseline for Multi-dataset 3D Object Detection. **Bo Zhang**, Jiakang Yuan, Botian Shi, Tao Chen, Yikang LI, Yu Qiao. <u>Published in CVPR-2023.</u> (CCF A)
 
-Bi3D: Bi-domain Active Learning for Cross-domain 3D Object Detection. Jiakang Yuan, **Bo Zhang^*^**, Xiangchao Yan, Tao Chen, Botian Shi, Yikang LI, Yu Qiao. Published in CVPR-2023. (CCF A)
+Bi3D: Bi-domain Active Learning for Cross-domain 3D Object Detection. Jiakang Yuan, **Bo Zhang^**, Xiangchao Yan, Tao Chen, Botian Shi, Yikang LI, Yu Qiao. *Published in CVPR-2023.* (CCF A)
 
 Generative Diffusion Prior for Unified Image Restoration and Enhancement. Ben Fei, Zhaoyang Lyu, Liang Pan, Junzhe Zhang, Weidong Yang, Tianyue Luo, **Bo Zhang**, Bo Dai. Published in CVPR-2023. (CCF A)
 
