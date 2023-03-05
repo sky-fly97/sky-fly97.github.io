@@ -82,13 +82,14 @@ analytics:
 author:
   name             : "Bo Zhang"
   avatar           : "profile.png"
-  bio              : "Autonomous Driving and Computer Vision"
+  bio              : "Autonomous Driving & Computer Vision & 3D Pre-training"
   location         : "Shanghai,China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  openreview       : "https://openreview.net/profile?id=~Bo_Zhang17"
+  googlescholar    : "https://scholar.google.com/citations?user=UoAEwT0AAAAJ&hl=zh-CN"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.semanticscholar.org/author/Bo-Zhang/2141897317"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +97,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "https://github.com/BOBrown"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-8052-782X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
