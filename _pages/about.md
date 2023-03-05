@@ -21,7 +21,7 @@ Bo Zhang received the Ph.D. degree in electronic engineering from Fudan Universi
 ***We are hiring***:  Our team aims to broaden the boundaries of autonomous driving perception model, trying to explore effective solutions for multi-domain generalization and searching for highly self-motivated interns / full-time employees. If you are interested in solving the industrial problem in an academic way, do not hesitate to contact me.
 
 
-# News :rocket :rocket :fire
+# News ::rocket ::rocket ::fire
 =========================================
 - Mar 8, 2023, **Three papers** are accepted by CVPR-2023, Uni3D, Bi3D, GDP.
 - Dec 20, 2022, One paper titled A Closer Look at Few-Shot 3D Point Cloud Classification is accepted by **IJCV**.
