@@ -20,7 +20,7 @@ Bo Zhang received the Ph.D. degree in electronic engineering from Fudan Universi
 
 ***We are hiring***:  Our team aims to broaden the boundaries of autonomous driving perception model, trying to explore effective solutions for multi-domain generalization and searching for highly self-motivated interns / full-time employees. If you are interested in solving the industrial problem in an academic way, do not hesitate to contact me.
 
-&nbsp
+<br/>
 # News
 =========================================
 - Mar 8, 2023, **Three papers** are accepted by CVPR-2023, Uni3D, Bi3D, GDP.
@@ -28,24 +28,23 @@ Bo Zhang received the Ph.D. degree in electronic engineering from Fudan Universi
 - Jun 15, 2022, Bo Zhang received the Ph.D. degree in electronic engineering from Fudan University.
 - Mar 22, 2022, Bo Zhang joined the ADG-Lab and engaged in the research of multi-domain fusion and transfer.
 
-
-&nbsp
+<br/>
+<br/>
 # Selected publications
-=========================================
 - ^ refers to the corresponding author
 
 Uni3D: A Unified Baseline for Multi-dataset 3D Object Detection. **Bo Zhang**, Jiakang Yuan, Botian Shi, Tao Chen, Yikang LI, Yu Qiao. <u>Published in CVPR-2023.</u> (CCF A)
 
-Bi3D: Bi-domain Active Learning for Cross-domain 3D Object Detection. Jiakang Yuan, **Bo Zhang^**, Xiangchao Yan, Tao Chen, Botian Shi, Yikang LI, Yu Qiao. *Published in CVPR-2023.* (CCF A)
+Bi3D: Bi-domain Active Learning for Cross-domain 3D Object Detection. Jiakang Yuan, **Bo Zhang^**, Xiangchao Yan, Tao Chen, Botian Shi, Yikang LI, Yu Qiao. <u>Published in CVPR-2023.</u> (CCF A)
 
-Generative Diffusion Prior for Unified Image Restoration and Enhancement. Ben Fei, Zhaoyang Lyu, Liang Pan, Junzhe Zhang, Weidong Yang, Tianyue Luo, **Bo Zhang**, Bo Dai. Published in CVPR-2023. (CCF A)
+Generative Diffusion Prior for Unified Image Restoration and Enhancement. Ben Fei, Zhaoyang Lyu, Liang Pan, Junzhe Zhang, Weidong Yang, Tianyue Luo, **Bo Zhang**, Bo Dai. <u>Published in CVPR-2023.</u> (CCF A)
 
-A Closer Look at Few-Shot 3D Point Cloud Classification. C Ye, H Zhu, **B Zhang**, T Chen. Published in IJCV. (CCF A)
+A Closer Look at Few-Shot 3D Point Cloud Classification. C Ye, H Zhu, **B Zhang**, T Chen. <u>Published in IJCV.</u> (CCF A)
 
-Learning cross-image object semantic relation in transformer for few-shot fine-grained image classification. **B Zhang**, J Yuan, B Li, T Chen, J Fan, B Shi. Published in ACM-MM-2022. (CCF A)
+Learning cross-image object semantic relation in transformer for few-shot fine-grained image classification. **B Zhang**, J Yuan, B Li, T Chen, J Fan, B Shi. <u>Published in ACM-MM-2022.</u> (CCF A)
 
-Sample-centric feature generation for semi-supervised few-shot learning. **B Zhang**, H Ye, G Yu, B Wang, Y Wu, J Fan, T Chen. Published in TIP. (CCF A)
+Sample-centric feature generation for semi-supervised few-shot learning. **B Zhang**, H Ye, G Yu, B Wang, Y Wu, J Fan, T Chen. <u>Published in TIP.</u> (CCF A)
 
-Joint distribution alignment via adversarial learning for domain adaptive object detection. **B Zhang**, T Chen, B Wang, R Li. Published in TMM. (CCF A, Accept without any changes during the first round)
+Joint distribution alignment via adversarial learning for domain adaptive object detection. **B Zhang**, T Chen, B Wang, R Li. <u>Published in TMM.</u> (CCF A, Accept without any changes during the first round)
 
-Object-aware long-short-range spatial alignment for few-shot fine-grained image classification. Y Wu, **B Zhang**, G Yu, W Zhang, B Wang, T Chen, J Fan. Published in ACM-MM-2021. (CCF A)
+Object-aware long-short-range spatial alignment for few-shot fine-grained image classification. Y Wu, **B Zhang**, G Yu, W Zhang, B Wang, T Chen, J Fan. <u>Published in ACM-MM-2021.</u> (CCF A)
