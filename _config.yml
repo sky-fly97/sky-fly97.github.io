@@ -85,11 +85,10 @@ author:
   bio              : "Autonomous Driving & Computer Vision & 3D Pre-training"
   location         : "Shanghai,China"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  openreview       : "https://openreview.net/profile?id=~Bo_Zhang17"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"     
   googlescholar    : "https://scholar.google.com/citations?user=UoAEwT0AAAAJ&hl=zh-CN"
   email            :
-  researchgate     :  "https://www.semanticscholar.org/author/Bo-Zhang/2141897317"
+  researchgate     : "https://openreview.net/profile?id=~Bo_Zhang17"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/BOBrown"
+  github           : "BOBrown"
   google_plus      :
   keybase          :
   instagram        :
