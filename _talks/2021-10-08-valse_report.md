@@ -1,5 +1,5 @@
 ---
-title: "Valse Report"
+title: "Valse Report on Domain Adaptive Object Detection"
 collection: talks
 type: "Talk"
 permalink: /talks/2021-10-08-valse_report
