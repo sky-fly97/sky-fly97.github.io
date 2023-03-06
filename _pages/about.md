@@ -27,7 +27,7 @@ Bo Zhang received the Ph.D. degree in electronic engineering from Fudan Universi
 - Jun 15, 2022, Bo Zhang received the Ph.D. degree in electronic engineering from Fudan University.
 - Mar 22, 2022, Bo Zhang joined the ADG-Lab and engaged in the research of multi-domain fusion and transfer.
 
-<br/>
+
 <br/>
 # Selected publications
 - ^ refers to the corresponding author
