@@ -12,7 +12,7 @@ location: "Hangzhou, China"
 
 
 <p align="center">
-  <img src="../images/TCSVT_zhangbo_DSEM_poster.pdf" width="100%">
+  <img src="../images/TCSVT_zhangbo_DSEM_poster.png" width="100%">
 </p>
 
 

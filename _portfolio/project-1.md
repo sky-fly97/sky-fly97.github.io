@@ -1,7 +1,7 @@
 ---
 title: "Multi-dataset 3D Object Detection"
 excerpt: "This project aims to find a unified model structure to enable the existing 3D object detection models to learn from different 3D datasets."
-collection: Project
+collection: portfolio
 ---
 
 # Introduction
