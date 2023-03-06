@@ -8,7 +8,7 @@ date: 2022-10-26
 location: "Shanghai, China"
 ---
 
-[Slides is confidential here]()
+[Slides is confidential]()
 
 The current 3D perception model follows the single dataset train-test pipeline. Such a single-dataset train-test pipeline faces two main challenges: 1) The strong data- and taxonomy-level differences in 3D perception datasets: the existing 3D perception datasets are collected using different manufacturers with different types of sensors, thus having strong data-level distribution differences and taxonomy distribution differences; 2) The weak cross-dataset generalization ability of 3D perception models: when a perception model is trained on one dataset (or domain) and directly deployed to another dataset, it usually faces serious recognition performance degradation.
 

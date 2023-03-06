@@ -10,15 +10,15 @@ redirect_from:
 
 Researcher, Shanghai AI Laboratory.
 
-**Office**: Level 12, L1, 701 Yunjin Road, Xuhui District, Shanghai, China
+**Office**: Level 12, L1, Longwen Road No. 129, Xuhui District, Shanghai, China
 
 **Email**: zhangbo [at] pjlab.org.cn & bo.zhangzx [at] gmail.com
 
 **Academic activities**: Reviewer at CVPR/ECCV/ICCV/ICLR/ACM-MM & T-GRS/T-CSVT/T-MM/T-NLLS
 
-Bo Zhang received the Ph.D. degree in electronic engineering from Fudan University, in 2022. His research is focused on autunomous driving perception model transfer learning, 2D/3D pre-training, 2D/3D few-shot learning, 2D/3D continuous learning. His research outcomes have had major impacts on Industrial applications like airport checkpoint security/recognition and localization of conceal objects. His work has led to many awards, including the National Scholarship 2021 China Award, the 2019 Excellent Doctoral Scholarship of Fudan University Award, and various awards from VALSE China and Shanghai Government. He is currently a Researcher with Shanghai AI Laboratory.
+Bo Zhang received the Ph.D. degree in electronic engineering from Fudan University, in 2022. His research is focused on autunomous driving perception model transfer learning, 2D/3D pre-training, 2D/3D few-shot learning, 2D/3D continuous learning. His research outcomes have had major impacts on Industrial applications like airport checkpoint security/recognition and localization of concealed objects. His work has led to many awards, including the National Scholarship 2021 China Award, the 2019 Excellent Doctoral Scholarship of Fudan University Award, and various awards from VALSE China and Shanghai Government. He is currently a Researcher with Shanghai AI Laboratory.
 
-***We are hiring***:  Our team aims to broaden the boundaries of autonomous driving perception model, trying to explore effective solutions for multi-domain generalization and searching for highly self-motivated interns / full-time employees. If you are interested in solving the industrial problem in an academic way, do not hesitate to contact me.
+***We are hiring***:  Our team aims to broaden the boundaries of autonomous driving perception model, trying to explore effective solutions for multi-domain generalization and searching for highly self-motivated interns. If you are interested in solving the industrial problem in an academic way, do not hesitate to contact me.
 
 <br/>
 # News
@@ -29,7 +29,7 @@ Bo Zhang received the Ph.D. degree in electronic engineering from Fudan Universi
 
 
 <br/>
-# Selected publications
+# Selected Publications
 - ^ refers to the corresponding author
 
 Uni3D: A Unified Baseline for Multi-dataset 3D Object Detection. **Bo Zhang**, Jiakang Yuan, Botian Shi, Tao Chen, Yikang LI, Yu Qiao. <u>Published in CVPR-2023.</u> ([Code is coming soon](), CCF A)
@@ -51,6 +51,6 @@ Object-aware long-short-range spatial alignment for few-shot fine-grained image 
 <br/>
 
 # Ph.D Thesis
-During the period of pursuing a Ph.D degree, I was focused on studying domain adaptive 2D object detection or semantic segmentation models, and have deep research and practical experience for the model adaptation/transfer task.
+During the period of pursuing a Ph.D degree, Bo Zhang was focused on studying domain adaptive 2D object detection or semantic segmentation models, and have deep research and practical experience for the model adaptation/transfer task.
 
 [Ph.D Thesis](https://drive.google.com/file/d/1CceNJTwc_QN6B3aE1rIscS65f4dYQdwF/view?usp=share_link)
