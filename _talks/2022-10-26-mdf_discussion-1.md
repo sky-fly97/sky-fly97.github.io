@@ -2,13 +2,13 @@
 title: "Research on Multi-dataset Pre-training and Single-dataset Active Learning Methods under 3D Perception Scene"
 collection: talks
 type: "Discussion"
-permalink: /talks/2022-11-15-mdf_discussion-1
-venue: "Room 6, Level 12, L1 Building"
-date: 2022-11-15
+permalink: /talks/2022-10-26-mdf_discussion-1
+venue: "Room 8, Level 12, L1 Building"
+date: 2022-10-26
 location: "Shanghai, China"
 ---
 
-[Slides here](http://exampleurl.com)
+[Slides is confidential here]()
 
 The current 3D perception model follows the single dataset train-test pipeline. Such a single-dataset train-test pipeline faces two main challenges: 1) The strong data- and taxonomy-level differences in 3D perception datasets: the existing 3D perception datasets are collected using different manufacturers with different types of sensors, thus having strong data-level distribution differences and taxonomy distribution differences; 2) The weak cross-dataset generalization ability of 3D perception models: when a perception model is trained on one dataset (or domain) and directly deployed to another dataset, it usually faces serious recognition performance degradation.
 
