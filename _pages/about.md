@@ -40,10 +40,10 @@ Generative Diffusion Prior for Unified Image Restoration and Enhancement. Ben Fe
 
 A Closer Look at Few-Shot 3D Point Cloud Classification. C Ye, H Zhu, **B Zhang**, T Chen. <u>Published in IJCV.</u> (CCF A)
 
-Learning cross-image object semantic relation in transformer for few-shot fine-grained image classification. **B Zhang**, J Yuan, B Li, T Chen, J Fan, B Shi. <u>Published in ACM-MM-2022.</u> (CCF A)
+Learning cross-image object semantic relation in transformer for few-shot fine-grained image classification. **B Zhang**, J Yuan, B Li, T Chen, J Fan, B Shi. <u>Published in ACM-MM-2022.</u> ([Code](https://github.com/JiakangYuan/HelixFormer), CCF A)
 
-Sample-centric feature generation for semi-supervised few-shot learning. **B Zhang**, H Ye, G Yu, B Wang, Y Wu, J Fan, T Chen. <u>Published in TIP.</u> (CCF A)
+Sample-centric feature generation for semi-supervised few-shot learning. **B Zhang**, H Ye, G Yu, B Wang, Y Wu, J Fan, T Chen. <u>Published in TIP.</u> ([Code](https://github.com/BOBrown/CCDA_LGFA), CCF A)
 
-Joint distribution alignment via adversarial learning for domain adaptive object detection. **B Zhang**, T Chen, B Wang, R Li. <u>Published in TMM.</u> (CCF A, Accept without any changes during the first round)
+Joint distribution alignment via adversarial learning for domain adaptive object detection. **B Zhang**, T Chen, B Wang, R Li. <u>Published in TMM.</u> ([Code](https://github.com/BOBrown/JADF-caffe), CCF A, Accept without any changes during the first round)
 
 Object-aware long-short-range spatial alignment for few-shot fine-grained image classification. Y Wu, **B Zhang**, G Yu, W Zhang, B Wang, T Chen, J Fan. <u>Published in ACM-MM-2021.</u> (CCF A)
