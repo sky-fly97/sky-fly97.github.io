@@ -1,5 +1,5 @@
 ---
-title: "Thesis defense"
+title: "Thesis Defense"
 collection: talks
 type: "Talk"
 permalink: /talks/2022-05-16-def_thesis
