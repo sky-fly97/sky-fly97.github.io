@@ -47,3 +47,10 @@ Sample-centric feature generation for semi-supervised few-shot learning. **B Zha
 Joint distribution alignment via adversarial learning for domain adaptive object detection. **B Zhang**, T Chen, B Wang, R Li. <u>Published in TMM.</u> ([Code](https://github.com/BOBrown/JADF-caffe), CCF A, Accept without any changes during the first round)
 
 Object-aware long-short-range spatial alignment for few-shot fine-grained image classification. Y Wu, **B Zhang**, G Yu, W Zhang, B Wang, T Chen, J Fan. <u>Published in ACM-MM-2021.</u> (CCF A)
+
+<br/>
+
+# Ph.D Thesis
+During the period of pursuing a Ph.D degree, I was focused on studying domain adaptive 2D object detection or semantic segmentation models, and have deep research and practical experience for the model adaptation/transfer task.
+
+[Ph.D Thesis](https://drive.google.com/file/d/1CceNJTwc_QN6B3aE1rIscS65f4dYQdwF/view?usp=share_link)
