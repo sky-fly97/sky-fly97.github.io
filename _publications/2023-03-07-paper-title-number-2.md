@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "A Closer Look at Few-Shot 3D Point Cloud Classification"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
