@@ -51,6 +51,6 @@ Object-aware long-short-range spatial alignment for few-shot fine-grained image 
 <br/>
 
 # Ph.D Thesis
-During the period of pursuing a Ph.D degree, Bo Zhang was focused on studying domain adaptive 2D object detection or semantic segmentation models, and have deep research and practical experience for the model adaptation/transfer task.
+During the period of pursuing a Ph.D degree, Bo Zhang was focused on studying domain adaptive 2D object detection or semantic segmentation models, and has deep research and practical experience for the model adaptation/transfer task.
 
 [Ph.D Thesis](https://drive.google.com/file/d/1CceNJTwc_QN6B3aE1rIscS65f4dYQdwF/view?usp=share_link)

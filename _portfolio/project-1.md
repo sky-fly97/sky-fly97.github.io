@@ -12,13 +12,5 @@ on a single dataset, with a 1.04× parameter increase over a selected baseline d
 
 # Some Visualization Results
 
-<iframe 
-src="https://drive.google.com/file/d/1jWcqOVtieyiq3A_M_TfMlWYJIdeTMC3Y/view?usp=share_link" 
-scrolling="no" 
-border="0" 
-frameborder="no" 
-framespacing="0" 
-allowfullscreen="true" 
-height=600 
-width=800> 
-</iframe>
+[Multi-dataset prediction:](https://drive.google.com/file/d/1jWcqOVtieyiq3A_M_TfMlWYJIdeTMC3Y/view?usp=share_link)
+< img src="./once.gif" width="800px">
