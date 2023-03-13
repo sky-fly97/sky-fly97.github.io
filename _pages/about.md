@@ -22,7 +22,7 @@ Bo Zhang received the Ph.D. degree in electronic engineering from Fudan Universi
 
 <br/>
 # News
-- Mar 13, 2023, One paper titled "Performance-aware Approximation of Global Channel Pruning for Multitask CNNs" is accepted for publication in *T-PAMI*.
+- Mar 13, 2023, One paper titled "Performance-aware Approximation of Global Channel Pruning for Multitask CNNs" is accepted for publication in **T-PAMI**.
 - Mar 8, 2023, **Three papers** are accepted by CVPR-2023, Uni3D, Bi3D, GDP.
 - Dec 20, 2022, One paper titled A Closer Look at Few-Shot 3D Point Cloud Classification is accepted by **IJCV**.
 - Jun 15, 2022, Bo Zhang received the Ph.D. degree in electronic engineering from Fudan University.
