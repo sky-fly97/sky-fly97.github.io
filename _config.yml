@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "BoZhang's HomePage"
+title                    : "XiangchaoYan's HomePage"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://bobrown.github.io/boZhang.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://sky-fly97.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "BOBrown/boZhang.github.io"
+repository               : "sky-fly97/sky-fly97.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bo Zhang"
+  name             : "Xiangchao Yan"
   avatar           : "profile.jpg"
-  bio              : "Autonomous Driving & Computer Vision & 3D Pre-training"
+  bio              : "Autonomous Driving & Computer Vision & 3D Transfer Learning"
   location         : "Shanghai,China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"     
-  googlescholar    : "https://scholar.google.com/citations?user=UoAEwT0AAAAJ&hl=zh-CN"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=0mMk6PMAAAAJ"
   email            :
-  researchgate     : "https://openreview.net/profile?id=~Bo_Zhang17"
+  researchgate     : "https://openreview.net/profile?id=~Xiangchao_Yan1"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "BOBrown"
+  github           : "sky-fly97"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-8052-782X"
+    orcid            : # "https://orcid.org/my-orcid?orcid=0000-0001-8052-782X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
