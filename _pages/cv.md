@@ -13,10 +13,9 @@ Education
 ======
 * Shanghai Jiao Tong University (SJTU)
   * Master of Intelligent Manufacturing and Information Engineering
-  * 
+
 * Shandong University (SDU)
   * Bachelor of Mechanical Engineering; GPA: 3.52/4.0. Ranking: 1/210
-  * 
 
 
 Work Experience
@@ -33,7 +32,7 @@ Internship
 * [OPPO](https://www.oppo.com/en/)
   * Algorithms Engineer Internship
   * Jul. 2021 - Aug. 2021
-  ∗ Topic:  Face Recognition Algorithm.
+  * Topic:  Face Recognition Algorithm.
   
   
 Project Experience
