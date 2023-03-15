@@ -15,7 +15,8 @@ Education
   * Master of Intelligent Manufacturing and Information Engineering
 
 * Shandong University (SDU)
-  * Bachelor of Mechanical Engineering; GPA: 3.52/4.0. Ranking: 1/210
+  * Bachelor of Mechanical Engineering; 
+  * GPA: 3.52/4.0. Ranking: 1/210
 
 
 Work Experience
