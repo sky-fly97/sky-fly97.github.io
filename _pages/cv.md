@@ -21,7 +21,7 @@ Education
 Work Experience
 ======
 * [Shanghai AI Lab](https://www.shlab.org.cn/)
-  * Young Researcher.
+  * Autonomous Driving Algorithm Engineer.
   * Jul. 2022 - Now
   * Research Topic: 3D Transfer learning, Semi-Supervised Learning.
   * Open-Source:[3DTrans](https://github.com/PJLab-ADG/3DTrans)
@@ -30,7 +30,7 @@ Work Experience
 Internship
 ======
 * [OPPO](https://www.oppo.com/en/)
-  * Algorithms Engineer Internship
+  * Algorithms Engineer Internship.
   * Jul. 2021 - Aug. 2021
   * Topic:  Face Recognition Algorithm.
   
